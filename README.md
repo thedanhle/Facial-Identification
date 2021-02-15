@@ -1,5 +1,5 @@
 # Facial-Identification
-Program that identifies individual faces using a training model
+Program that identifies individual faces and displays the individual's identity on the live feed. This program uses OpenCV and is written in Python, using the numpy and pickle libraries.
 
 ## Creating facial recognition with identification:
 
